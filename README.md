@@ -11,7 +11,7 @@
 ## 👨‍💻 About Me
 
 ```typescript
-const nazar: Developer = {
+const nzrkv: Developer = {
   name: "nzrkv",
   role: "Senior Full-Stack Developer",
   experience: "5+ years",
