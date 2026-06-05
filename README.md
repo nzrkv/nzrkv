@@ -12,7 +12,7 @@
 
 ```typescript
 const nazar: Developer = {
-  name: "Nazar Nazarkevych",
+  name: "nzrkv",
   role: "Senior Full-Stack Developer",
   experience: "5+ years",
   location: "Ukraine 🇺🇦",
