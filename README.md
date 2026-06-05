@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Nazar%20Nazarkevych&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Senior%20Full-Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=nzrkv%20&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Senior%20Full-Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Developer+%F0%9F%9A%80;React+%C2%B7+Node.js+%C2%B7+React+Native+%C2%B7+TypeScript;5%2B+Years+of+Experience;Open+to+Remote+EU%2FUSA+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
@@ -48,32 +48,8 @@ const nazar: Developer = {
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaCarolinaDomingues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCarolinaDomingues&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AnaCarolinaDomingues&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnaCarolinaDomingues&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
